@@ -1,0 +1,14 @@
+{
+  "name": "in-memory-database",
+  "version": "1.0.0",
+  "description": "In-Memory Database implementation using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaja Sai Dhanush",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^2.1.2"
+  }
+}
